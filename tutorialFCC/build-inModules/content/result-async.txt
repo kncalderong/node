@@ -1,0 +1,1 @@
+the result is: this is the first, this is the second txt
